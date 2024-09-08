@@ -50,4 +50,4 @@ Step by Step:
 - Create load data to hadoop
 
 Result : 
-![alt text](<WhatsApp Image 2024-09-08 at 05.06.09_be7dfeee.jpg>)
+https://ibb.co.com/7zQdHVg
