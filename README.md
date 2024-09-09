@@ -50,4 +50,5 @@ Step by Step:
 - Create load data to hadoop
 
 Result : 
-https://ibb.co.com/7zQdHVg
+![WhatsApp Image 2024-09-08 at 05 06 07_cba724bc](https://github.com/user-attachments/assets/5b47755e-0002-475f-b566-4a07d429586d)
+
